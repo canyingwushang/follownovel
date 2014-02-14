@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>32859EB9-6126-4262-BB46-A388B3E8D5FD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>follownovel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48DAB582-E4EA-4D00-BE04-DB1604830B03</key>
+		<string>https://github.com/canyingwushang/ck-follownovel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>follownovel/follownovel.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48DAB582-E4EA-4D00-BE04-DB1604830B03</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/canyingwushang/ck-follownovel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48DAB582-E4EA-4D00-BE04-DB1604830B03</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48DAB582-E4EA-4D00-BE04-DB1604830B03</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ck-follownovel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
